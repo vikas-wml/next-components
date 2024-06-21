@@ -27,3 +27,4 @@ export default function Accordian({ title, description }) {
     </div>
   );
 }
+// next-commponents
